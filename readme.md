@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="./assets/icons/splash.svg" height="500"/> <br>
-     <img alt="Made by Alex Teixeira" src="https://img.shields.io/badge/made%20by-">
+     <img  src="https://img.shields.io/badge/made%20by-">
 </p>
 
 **BuscaCep** é uma projeto pessoal criado com react native e typescript utilizando a API do ViaCep para buscar todas as informações do cep e retornar em tela.
